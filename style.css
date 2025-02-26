@@ -1,0 +1,9 @@
+div#root {
+    display: absolute;
+    justify-content: center;
+}
+
+div#rroot h1 {
+    font-size: large;
+    color: black;
+}
